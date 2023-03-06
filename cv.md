@@ -1,7 +1,7 @@
 # CV
 ## 1. Name 
 ###   Andrei Kochetov
-## 2. Contacts
+## 2. Contacts 
 ###  ● tel: +79198372526 
 ###  ● email: andrei.glava03@gmail.com
 ## 3. About me
@@ -36,6 +36,6 @@
 ### ● JS, HTML, CSS, WebPack  https://github.com/Andrei-Kochetov/Food-project
 ### ● HTML, SASS  https://github.com/Andrei-Kochetov/First-project
 ## 7. Education
-### Higher Law (SSLA), 2 courses by Ivan Petrichenko on Udemi (HTML5 and CSS3, JS)
+### Higher Law (SSLA), 2 courses by Ivan Petrichenko on Udemi (HTML5 and CSS3, JS) 
 ## 8. English level 
 ### A2
