@@ -10,9 +10,11 @@
 ### ● JS (beginner)
 ### ● HTML5
 ### ● CSS3
+### ● SASS/SCSS
 ### ● Figma
 ### ● git
 ### ● BEM methodology
+### ● WebPack
 ## 5. Code examples
     function showSlide(){
         if(indexImg > images.length - 1){
@@ -31,6 +33,9 @@
         images[indexImg].style.display = 'block';
     }
 ## 6. Experience
+### ● JS, HTML, CSS, WebPack  https://github.com/Andrei-Kochetov/Food-project
+### ● HTML, SASS  https://github.com/Andrei-Kochetov/First-project
 ## 7. Education
 ### Higher Law (SSLA), 2 courses by Ivan Petrichenko on Udemi (HTML5 and CSS3, JS)
-## 8. English level A2
+## 8. English level 
+### A2
